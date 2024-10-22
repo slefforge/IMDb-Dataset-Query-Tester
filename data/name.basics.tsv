@@ -1,0 +1,12 @@
+nconst	primaryName	birthYear	deathYear	primaryProfession	knownForTitles
+nm0000001	Fred Astaire	1899	1987	actor,miscellaneous,producer	tt0050419,tt0072308,tt0053137,tt0027125
+nm0000002	Lauren Bacall	1924	2014	actress,soundtrack,archive_footage	tt0037382,tt0075213,tt0117057,tt0038355
+nm0000003	Brigitte Bardot	1934	\N	actress,music_department,producer	tt0057345,tt0049189,tt0056404,tt0054452
+nm0000004	John Belushi	1949	1982	actor,writer,music_department	tt0072562,tt0077975,tt0080455,tt0078723
+nm0000005	Ingmar Bergman	1918	2007	writer,director,actor	tt0050986,tt0083922,tt0050976,tt0069467
+nm0000006	Ingrid Bergman	1915	1982	actress,producer,soundtrack	tt0034583,tt0036855,tt0038109,tt0038787
+nm0000010	James Cagney	1899	1986	actor,director,producer	tt0029870,tt0031867,tt0042041,tt0055256
+nm0000011	Gary Cooper	1901	1961	actor,stunts,producer	tt0044706,tt0034167,tt0027996,tt0035896
+nm0000012	Bette Davis	1908	1989	actress,make_up_department,producer	tt0042192,tt0056687,tt0031210,tt0035140
+nm0000013	Doris Day	1922	2019	actress,producer,miscellaneous	tt0048317,tt0045591,tt0053172,tt0049470
+nm0000014	Olivia de Havilland	1916	2020	actress,soundtrack,archive_footage	tt0031381,tt0041452,tt0029843,tt0040806
